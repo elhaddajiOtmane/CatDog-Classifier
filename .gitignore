@@ -30,5 +30,17 @@ TestResults.xml
 *.bmp
 *.tiff
 *.svg
+# Ignore documents
+*.doc
+*.docx
+*.pdf
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+# Ignore database files
+*.db
+# Ignore text files
+*.txt
 .cats_vs_dogs/
 # Cache folder
