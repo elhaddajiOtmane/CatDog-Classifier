@@ -86,4 +86,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Created by [elhaddajiotmane](https://github.com/elhaddajiotmane)
+Created by [elhaddajiotmane](https://github.com/elhaddajiotmane)  
+Connect with me on [LinkedIn](https://linkedin.com/in/elhaddaji-otmane/)
