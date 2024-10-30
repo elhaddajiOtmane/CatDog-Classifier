@@ -41,6 +41,5 @@ TestResults.xml
 # Ignore database files
 *.db
 # Ignore text files
-*.txt
 .cats_vs_dogs/
 # Cache folder
